@@ -1,0 +1,20 @@
+1024    iOS Store
+512     Android
+180     60pt@3x
+167     83.5pt@2x
+152     76pt@2x
+144     72pt@2x
+120     60pt@2x, 40pt@3x
+114     57pt@2x
+100     50pt@2x
+87      29pt@3x
+80      40pt@2x
+76      76pt
+72      72pt
+60      20pt@3x
+58      29pt@2x
+57      57pt
+50      50pt
+40      40pt, 20pt@2x
+29      29pt
+20      20pt
