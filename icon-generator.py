@@ -25,8 +25,8 @@ class App(QWidget):
         btnLoadSvg.move(20,20)
         btnLoadSvg.clicked.connect(self.openFileDialog)
 
-        # Create Textbox
-        self.textbox = QLineEdit(self)
+        # Create Textbox        
+        self.textbox = QLineEdit(self)        
         self.textbox.move(100, 20)
         self.textbox.resize(350, 22)
         self.textbox.setStyleSheet('QLineEdit {padding-left:5}')
